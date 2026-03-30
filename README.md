@@ -37,3 +37,5 @@
 * 📸 **Advanced OCR:** Full receipt scanning to extract line items automatically using computer vision.
 
 ---
+### 🌐 Live Demo
+You can access the application here: [https://fiscalmate-ai--CKBuilds.replit.app]
